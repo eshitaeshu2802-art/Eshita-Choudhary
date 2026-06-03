@@ -5,11 +5,11 @@
 ## About Me
 I am currently learning Python and SQL step by step.  
 I enjoy solving problems and building logical thinking skills.
-
 ## Skills
-- Python (beginner)
-- SQL (learning)
-- Problem Solving
+
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+![SQL](https://img.shields.io/badge/SQL-orange?style=for-the-badge&logo=mysql)
+
 
 ## Goals
 - Build strong foundation in Python
