@@ -1,5 +1,5 @@
 
-# Hi 👋, I'm Isha
+# Hi 👋, I'm Esha
 ### Aspiring Python & SQL Developer
 
 ## About Me
@@ -18,4 +18,4 @@ I enjoy solving problems and building logical thinking skills.
 - Improve consistency in coding
 
 ## GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=eshitaeshu2802-art&show_icons=true&hide_border=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=eshitaeshu2802-art&show_icons=true&theme=deflault)
