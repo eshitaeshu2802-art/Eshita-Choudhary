@@ -26,10 +26,12 @@ I am focused on improving myself in Python and SQL.
 
 ---
 
+
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=eshitaeshu2802-art&show_icons=true&hide_border=true)
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=eshitaeshu2802-art&show_icons=true&hide_border=true&theme=tokyonight" />
+</p>
 ---
 
 ## 🌟 Current Focus
